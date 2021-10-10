@@ -10,5 +10,8 @@ entity extend is
 end extend;
 
 architecture synth of extend is
+    signal mask:std_logic_vector(15 downto 0);
 begin
+    mask <= (others => (imm16(15) and signed));
+    imm32 <= (mask & imm16) ;
 end synth;
