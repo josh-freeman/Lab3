@@ -14,17 +14,13 @@ entity IR is
 end IR;
 
 architecture synth of IR is
-    signal s_current_state: std_logic_vector(31 downto 0);
-    signal s_next_state: std_logic_vector(31 downto 0);
     
 begin
     instructionRegister : process (clk) is
     begin
-        if rising_edge(clk) then
-            
-          s_current_state <= s_next_state;
+        if falling_edge(clk) and enable ='1' then
+          Q<=D;
         end if;
     end process instructionRegister;
-    s_next_state <= D when enable='1'else s_next_state;
-    Q<= s_current_state;
+
 end synth;

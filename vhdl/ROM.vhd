@@ -27,16 +27,6 @@ begin
         q => q_sig
     );
     
-    rom : process (clk) is
-    begin
-        if rising_edge(clk) then
-            if read = '1' and cs = '1' then
-                rddata <= q_sig;
-            else
-                rddata <= (others => 'Z');
-            end if;
-        end if;
-    end process rom;
-    
+    rddata <= q_sig when (read='1' and cs='1') else (others => 'Z');
     
 end synth;
