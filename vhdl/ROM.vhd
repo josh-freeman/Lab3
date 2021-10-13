@@ -20,13 +20,25 @@ architecture synth of ROM is
         );
     end component ROM_Block;
     signal q_sig : std_logic_vector(31 downto 0);
+    signal s_cs : std_logic;
+    signal s_read : std_logic;
+    
 begin
     ROM_INSTANCE: ROM_Block port map(
         address => address,
         clock   => clk,
         q => q_sig
     );
-    
-    rddata <= q_sig when (read='1' and cs='1') else (others => 'Z');
-    
+
+    rom : process (clk) is
+    begin
+        if rising_edge(clk) then
+            if read = '1' and cs = '1' then
+                rddata <= q_sig;
+            else
+                rddata <= (others => 'Z');
+            end if;
+        end if;
+    end process rom;
+
 end synth;

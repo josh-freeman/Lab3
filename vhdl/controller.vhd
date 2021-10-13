@@ -99,16 +99,16 @@ begin
     
     
     s_next_state_dcode <= 
-        BREAK when ("00" & opx=X"34" and "00"&op=X"3A") else
+        BREAK when ("00"& opx=X"34" and "00"&op=X"3A") else
         CALLR when "00"&op=X"3A" and "00"&opx=X"1D" else
         JMP when "00"&op=X"3A" and ("00"&opx=X"0D" or "00"&opx=X"05") else     
         STORE when "00"&op=X"15" else
         LOAD1 when "00"&op=X"17" else
-        UI_OP when s_op_alu_uiop /= "ZZZZZZ" else
-        I_OP when s_op_alu_IOP /= "ZZZZZZ" else
-        RI_OP when s_op_alu_riop /= "ZZZZZZ" else
-        R_OP when "00"&op=X"3A" else
-        BRANCH when s_op_alu_branch /= "ZZZZZZ" else
+        UI_OP when s_op_alu_uiop /= "111111" else
+        I_OP when s_op_alu_IOP /= "111111" else
+        RI_OP when s_op_alu_riop /= "111111"  else
+        R_OP when s_op_alu_ROP /= "111111" else
+        BRANCH when s_op_alu_branch /= "111111" else
         CALL when "00"&op=X"00" else
         JMPI when "00"&op=X"01" else
                 FETCH1;--when ```s_op_alu_IOP= (others => 'Z')```,
@@ -133,7 +133,7 @@ begin
         "000000" when  "00" & op= X"3A"and "00" & opx= X"31"else
         "001000" when "00" & op= X"3A"and "00" & opx= X"39"else
         "100011" when "00" & op= X"3A"and "00" & opx= X"1E"else
-                "ZZZZZZ";
+                "111111";
         
     s_op_alu_uiop <= 
         "100001" when "00" & op = X"0C"else
@@ -141,7 +141,7 @@ begin
         "100011" when "00"&op = X"1C"else
         "011101" when "00"&op = X"28"else
         "011110" when "00"&op = X"30"else
-                "ZZZZZZ";
+                "111111";
         
     s_op_alu_riop <= 
         "110010" when "00" & op= X"3A"and "00" & opx= X"12"else
@@ -150,7 +150,7 @@ begin
         "110000" when "00" & op= X"3A"and "00" & opx= X"02"else
 
 
-                "ZZZZZZ";
+                "111111";
                 
                 
     s_branch_op <= '1' when s_current_state=BRANCH else '0';
@@ -161,7 +161,7 @@ begin
         "011010" when ("00"&op = X"10") else
         "011011" when ("00"&op = X"18") else
         "011100" when ("00"&op = X"20") else
-                "ZZZZZZ";
+                "111111";
                 --debug : not sure if this should explicitly be turned off in state LOAD2
     s_op_alu_branch <= 
         "011100" when "00" & op = X"06"  or "00" &op = X"26" else
@@ -170,12 +170,9 @@ begin
         "011011" when "00"&op = X"1E" else
         "011101" when "00"&op = X"2E" else--TODO in these two states, imm_signed must 
         "011110" when "00"&op = X"36" else--be down (unsigned comparisons)
-                "ZZZZZZ";
+                "111111";
 
     op_alu <= s_op_alu;
-    s_op_alu <= s_op_alu_IOP;--normally shouldn't conflict as both of them aren't on at the same time
-    s_op_alu <= s_op_alu_branch;
-    s_op_alu <= s_op_alu_uiop;
-    s_op_alu <= s_op_alu_riop;
-    s_op_alu <= s_op_alu_rop;
+    s_op_alu <= s_op_alu_IOP and s_op_alu_branch and s_op_alu_riop and s_op_alu_ROP and s_op_alu_uiop;--normally shouldn't conflict as both of them aren't on at the same time
+    
 end synth;

@@ -1,18 +1,26 @@
-../vhdl/comparator.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/comparator.vhd
-Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity comparator
--- Compiling architecture synth of comparator
-
-} {} {}} ../vhdl/extend.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/extend.vhd
+../vhdl/extend.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/extend.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Compiling entity extend
 -- Compiling architecture synth of extend
+
+} {} {}} ../vhdl/ROM_Block.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM_Block.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ROM_Block
+-- Compiling architecture SYN of rom_block
+
+} {} {}} ../vhdl/comparator.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/comparator.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity comparator
+-- Compiling architecture synth of comparator
 
 } {} {}} ../testbench/check_functions.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/check_functions.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
@@ -102,14 +110,6 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 
 -- Loading package NUMERIC_STD
 -- Compiling entity register_file
 -- Compiling architecture synth of register_file
-
-} {} {}} ../vhdl/controller.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/controller.vhd
-Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity controller
--- Compiling architecture synth of controller
 
 } {} {}} ../vhdl/ROM.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020

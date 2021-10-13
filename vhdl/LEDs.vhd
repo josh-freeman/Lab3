@@ -41,8 +41,12 @@ begin
 	 begin
 		for i in 0 to 95 loop
 			LEDs_before_transpose(i / 8 + (i mod 8) * 12) := LEDs_FPGA4U(i);
-			LEDs(i) <= LEDs_before_transpose((i / 12 + 1) * 12 - 1 - (i mod 12));
+			--LEDs(i) <= LEDs_before_transpose((i / 12 + 1) * 12 - 1 - (i mod 12));
 		end loop;
+		for i in 0 to 95 loop
+            --LEDs_before_transpose(i / 8 + (i mod 8) * 12) := LEDs_FPGA4U(i);
+            LEDs(i) <= LEDs_before_transpose((i / 12 + 1) * 12 - 1 - (i mod 12));
+        end loop;
 	 end process;
 
     -- registers

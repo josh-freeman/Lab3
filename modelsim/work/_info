@@ -14,7 +14,7 @@ Z0 w1633876890
 Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
 Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 413
+!i122 434
 Z4 dC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/modelsim
 Z5 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/add_sub.vhd
 Z6 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/add_sub.vhd
@@ -24,9 +24,9 @@ V207_zj^V^3XmVFBkYPT0^3
 !s100 Ho^oT``GLJUNf<W@=D9Un1
 Z7 OV;C;2020.1;71
 32
-Z8 !s110 1633876894
+Z8 !s110 1634010300
 !i10b 1
-Z9 !s108 1633876894.000000
+Z9 !s108 1634010300.000000
 Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/add_sub.vhd|
 Z11 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/add_sub.vhd|
 !i113 1
@@ -37,9 +37,9 @@ R1
 R2
 R3
 DEx4 work 7 add_sub 0 22 207_zj^V^3XmVFBkYPT0^3
-!i122 413
+!i122 434
 l20
-L16 12
+Z14 L16 12
 V;MjKlXD[AO_]d5PEOYM?k3
 !s100 55Al;c5jm`mn3hVH>_Gg50
 R7
@@ -53,24 +53,24 @@ R11
 R12
 R13
 Ealu
-Z14 w1476133812
+Z15 w1476133812
 R2
 R3
-!i122 312
+!i122 435
 R4
-Z15 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ALU.vhd
-Z16 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ALU.vhd
+Z16 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ALU.vhd
+Z17 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ALU.vhd
 l0
-Z17 L24 1
+Z18 L24 1
 VLIV0?b]kCZ40<iPbTC=4:2
 !s100 O`l`Xc5c_V9`dzon<W_fQ2
 R7
 32
-Z18 !s110 1633870798
+R8
 !i10b 1
-Z19 !s108 1633870798.000000
-Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ALU.vhd|
-Z21 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ALU.vhd|
+R9
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ALU.vhd|
+Z20 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ALU.vhd|
 !i113 1
 R12
 R13
@@ -78,41 +78,41 @@ Abdf_type
 R2
 R3
 DEx4 work 3 alu 0 22 LIV0?b]kCZ40<iPbTC=4:2
-!i122 312
+!i122 435
 l91
 L34 106
 Vn7Jhlm<g3=Igo4gAY0?Z=3
 !s100 ao^@A8=RSg[FW?jY:[EXI0
 R7
 32
-R18
+R8
 !i10b 1
+R9
 R19
 R20
-R21
 !i113 1
 R12
 R13
 Ebuttons
-Z22 w1633706531
+Z21 w1633706531
 R1
 R2
 R3
-!i122 295
+!i122 418
 R4
-Z23 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/buttons.vhd
-Z24 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/buttons.vhd
+Z22 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/buttons.vhd
+Z23 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/buttons.vhd
 l0
 L5 1
 V6nKA>6XmzI`j>a@n4^6Pn2
 !s100 =22bV77NIHzbkEY31]2hQ2
 R7
 32
-Z25 !s110 1633870795
+!s110 1634010297
 !i10b 1
-Z26 !s108 1633870795.000000
-Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/buttons.vhd|
-Z28 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/buttons.vhd|
+Z24 !s108 1634010297.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/buttons.vhd|
+Z26 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/buttons.vhd|
 !i113 1
 R12
 R13
@@ -121,30 +121,30 @@ R1
 R2
 R3
 DEx4 work 7 buttons 0 22 6nKA>6XmzI`j>a@n4^6Pn2
-!i122 295
+!i122 418
 l31
 L22 60
 Vz=5DD3`[2T_e1Tj`RUBgR3
 !s100 l:Q7JXKFoP5Z9FQDUXG9]3
 R7
 32
-R25
+Z27 !s110 1634010298
 !i10b 1
+R24
+R25
 R26
-R27
-R28
 !i113 1
 R12
 R13
 Pcheck_functions
-Z29 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+Z28 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
 R2
 R3
-!i122 407
-R22
+!i122 478
+R21
 R4
-Z30 8../testbench/check_functions.vhd
-Z31 F../testbench/check_functions.vhd
+Z29 8../testbench/check_functions.vhd
+Z30 F../testbench/check_functions.vhd
 l0
 L6 1
 V6aLKC8M`WFbUTzDPW6He83
@@ -152,51 +152,51 @@ V6aLKC8M`WFbUTzDPW6He83
 R7
 31
 b1
-Z32 !s110 1633873185
+Z31 !s110 1634113224
 !i10b 1
-Z33 !s108 1633873185.000000
-Z34 !s90 -reportprogress|300|-93|../testbench/check_functions.vhd|
-Z35 !s107 ../testbench/check_functions.vhd|
+Z32 !s108 1634113224.000000
+Z33 !s90 -reportprogress|300|-93|../testbench/check_functions.vhd|
+Z34 !s107 ../testbench/check_functions.vhd|
 !i113 1
 o-93
 R13
 Bbody
-Z36 DPx4 work 15 check_functions 0 22 6aLKC8M`WFbUTzDPW6He83
-R29
+Z35 DPx4 work 15 check_functions 0 22 6aLKC8M`WFbUTzDPW6He83
+R28
 R2
 R3
-!i122 407
+!i122 478
 l0
 L40 1
 Vl_?7YlfeIC=0oLhh:^F<e2
 !s100 ]Ul<gd[SNh_SV]VQVO[::0
 R7
 31
-R32
+R31
 !i10b 1
+R32
 R33
 R34
-R35
 !i113 1
 o-93
 R13
 Ecomparator
-Z37 w1632577770
+Z36 w1632577770
 R2
 R3
-!i122 313
+!i122 436
 R4
-Z38 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/comparator.vhd
-Z39 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/comparator.vhd
+Z37 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/comparator.vhd
+Z38 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/comparator.vhd
 l0
 L4 1
 V3WXakLjKGIMC9fTC_zAJG3
 !s100 XTWoF>RX1>LcmLLBBo;N:0
 R7
 32
-R18
+Z39 !s110 1634010301
 !i10b 1
-R19
+R9
 Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/comparator.vhd|
 Z41 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/comparator.vhd|
 !i113 1
@@ -206,81 +206,81 @@ Asynth
 R2
 R3
 DEx4 work 10 comparator 0 22 3WXakLjKGIMC9fTC_zAJG3
-!i122 313
+!i122 436
 l19
 L16 18
 VkbO[i?zH6SRoNfg96DB9U1
 !s100 =THmVOcUS]=W7lkZEn5`z2
 R7
 32
-R18
+R39
 !i10b 1
-R19
+R9
 R40
 R41
 !i113 1
 R12
 R13
 Econtroller
-Z42 w1633872786
+Z42 w1634113778
 R2
 R3
-!i122 403
+!i122 481
 R4
-Z43 8../vhdl/controller.vhd
-Z44 F../vhdl/controller.vhd
+Z43 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/controller.vhd
+Z44 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/controller.vhd
 l0
 L4 1
-V>:mGA0fg1bnEUkAc9L0EZ3
+V_=HMC5nS7CFmjhkXoh^<L0
 !s100 iLCb?>B5ja1L5iDVmAU]]0
 R7
-31
-Z45 !s110 1633872790
+32
+Z45 !s110 1634113784
 !i10b 1
-Z46 !s108 1633872790.000000
-Z47 !s90 -reportprogress|300|-93|../vhdl/controller.vhd|
-Z48 !s107 ../vhdl/controller.vhd|
+Z46 !s108 1634113784.000000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/controller.vhd|
+Z48 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/controller.vhd|
 !i113 1
-o-93
+R12
 R13
 Asynth
 R2
 R3
-DEx4 work 10 controller 0 22 >:mGA0fg1bnEUkAc9L0EZ3
-!i122 403
+Z49 DEx4 work 10 controller 0 22 _=HMC5nS7CFmjhkXoh^<L0
+!i122 481
 l57
-L39 143
-Vh]87gddE2:OJjKGI19IGG0
-!s100 6jU@ld@?kRcFiP^4k4oL>2
+Z50 L39 140
+V@V5MQ4MTmKdW<4h52kR4<3
+!s100 PX0POg[g=Ga6PR3;laNo92
 R7
-31
+32
 R45
 !i10b 1
 R46
 R47
 R48
 !i113 1
-o-93
+R12
 R13
 Ecpu
-R22
+R21
 R2
 R3
-!i122 297
+!i122 420
 R4
-Z49 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/CPU.vhd
-Z50 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/CPU.vhd
+Z51 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/CPU.vhd
+Z52 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/CPU.vhd
 l0
-R17
+R18
 VoN1Z@H62cOJ8j76FSZXfk0
 !s100 ?^3E^YkUK_jO8j=PLQg0X0
 R7
 32
-Z51 !s110 1633870796
+R27
 !i10b 1
-Z52 !s108 1633870796.000000
-Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/CPU.vhd|
-Z54 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/CPU.vhd|
+Z53 !s108 1634010298.000000
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/CPU.vhd|
+Z55 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/CPU.vhd|
 !i113 1
 R12
 R13
@@ -288,41 +288,41 @@ Abdf_type
 R2
 R3
 DEx4 work 3 cpu 0 22 oN1Z@H62cOJ8j76FSZXfk0
-!i122 297
+!i122 420
 l168
 L37 257
 VU_VbP>G_0>o[AHnGEJ`7A2
 !s100 nj]fOeJzKgV2QQoiYJ37e2
 R7
 32
-R51
+R27
 !i10b 1
-R52
 R53
 R54
+R55
 !i113 1
 R12
 R13
 Edecoder
-Z55 w1633718228
+Z56 w1634011221
 R1
 R2
 R3
-!i122 314
+!i122 447
 R4
-Z56 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/decoder.vhd
-Z57 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/decoder.vhd
+Z57 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/decoder.vhd
+Z58 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/decoder.vhd
 l0
 L5 1
 VdVPPG90IhOIULClZ>dGSU3
 !s100 [=GD<ThUYhT?2dg2ooP7P1
 R7
 32
-R18
+Z59 !s110 1634103045
 !i10b 1
-R19
-Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/decoder.vhd|
-Z59 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/decoder.vhd|
+Z60 !s108 1634103045.000000
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/decoder.vhd|
+Z62 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/decoder.vhd|
 !i113 1
 R12
 R13
@@ -331,40 +331,40 @@ R1
 R2
 R3
 DEx4 work 7 decoder 0 22 dVPPG90IhOIULClZ>dGSU3
-!i122 314
+!i122 447
 l20
-Z60 L15 16
-V2NQl6af`QGZN0FLK:IZgk3
-!s100 WUzcHIeTezd6Tib:n8h6@2
+Z63 L15 16
+VTjmCoeNQkMhKeWID:A[=Y3
+!s100 MoZfOG=DE_E7dXo5@;Gkh3
 R7
 32
-R18
-!i10b 1
-R19
-R58
 R59
+!i10b 1
+R60
+R61
+R62
 !i113 1
 R12
 R13
 Eextend
-Z61 w1633726151
+Z64 w1634104051
 R2
 R3
-!i122 298
+!i122 454
 R4
-Z62 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/extend.vhd
-Z63 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/extend.vhd
+Z65 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/extend.vhd
+Z66 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/extend.vhd
 l0
 L4 1
 VUL_6DHeRdI@k7FglXE4m:2
 !s100 [OER<nle^Gzi[Q]KGKSL33
 R7
 32
-R51
+Z67 !s110 1634105132
 !i10b 1
-R52
-Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/extend.vhd|
-Z65 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/extend.vhd|
+Z68 !s108 1634105132.000000
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/extend.vhd|
+Z70 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/extend.vhd|
 !i113 1
 R12
 R13
@@ -372,123 +372,123 @@ Asynth
 R2
 R3
 DEx4 work 6 extend 0 22 UL_6DHeRdI@k7FglXE4m:2
-!i122 298
+!i122 454
 l14
 L12 6
-V:>WBA0MgJ0UDW@WigFWS?0
-!s100 BY@RJ6BhWNK3ICKG:Z_kA0
+V2?aG1aJAnXIRbMDooeTC<0
+!s100 FlNV0Kb8AQiJli:LkB;Ck0
 R7
 32
-R51
+R67
 !i10b 1
-R52
-R64
-R65
+R68
+R69
+R70
 !i113 1
 R12
 R13
 Egecko
-R22
+R21
 R2
 R3
-!i122 299
+!i122 422
 R4
-Z66 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/GECKO.vhd
-Z67 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/GECKO.vhd
+Z71 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/GECKO.vhd
+Z72 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/GECKO.vhd
 l0
 L25 1
 VUUo[=d8;JL2NUd?KL5z>W3
 !s100 LSB69=RnS?7B=e740[]>J0
 R7
 32
-R51
+R27
 !i10b 1
-R52
-Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/GECKO.vhd|
-Z69 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/GECKO.vhd|
+R53
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/GECKO.vhd|
+Z74 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/GECKO.vhd|
 !i113 1
 R12
 R13
 Abdf_type
 R2
 R3
-Z70 DEx4 work 5 gecko 0 22 UUo[=d8;JL2NUd?KL5z>W3
-!i122 299
+Z75 DEx4 work 5 gecko 0 22 UUo[=d8;JL2NUd?KL5z>W3
+!i122 422
 l122
 L42 153
 VXW8hfda?:0fgXTELaMc<M2
 !s100 6_aIkK46>FzI3D:<OBG:Z1
 R7
 32
-R51
+R27
 !i10b 1
-R52
-R68
-R69
+R53
+R73
+R74
 !i113 1
 R12
 R13
 Eir
-Z71 w1633877989
+Z76 w1634111702
 R2
 R3
-!i122 417
+!i122 472
 R4
-Z72 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/IR.vhd
-Z73 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/IR.vhd
+Z77 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/IR.vhd
+Z78 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/IR.vhd
 l0
 L4 1
 VI7Uk6jcWAdgHD@U?Qji@^1
 !s100 I<`BaG:3P>Nfhh8LmZ?0I1
 R7
 32
-Z74 !s110 1633877992
+Z79 !s110 1634112181
 !i10b 1
-Z75 !s108 1633877992.000000
-Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/IR.vhd|
-Z77 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/IR.vhd|
+Z80 !s108 1634112181.000000
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/IR.vhd|
+Z82 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/IR.vhd|
 !i113 1
 R12
 R13
 Asynth
 R2
 R3
-Z78 DEx4 work 2 ir 0 22 I7Uk6jcWAdgHD@U?Qji@^1
-!i122 417
-l18
-Z79 L16 11
-VAYTeKiY>XM2U6e9VIMHA?2
-!s100 T7?JoFf_0JBUo86eWYg8Z2
+DEx4 work 2 ir 0 22 I7Uk6jcWAdgHD@U?Qji@^1
+!i122 472
+l17
+R14
+V7`lC]YV<R:T0WlE_SNXFW1
+!s100 Xm1fE;7oc2Nk<GdnVV?gk2
 R7
 32
-R74
+R79
 !i10b 1
-R75
-R76
-R77
+R80
+R81
+R82
 !i113 1
 R12
 R13
 Eleds
-Z80 w1633706532
+Z83 w1634107411
 R1
 R2
 R3
-!i122 315
+!i122 458
 R4
-Z81 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/LEDs.vhd
-Z82 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/LEDs.vhd
+Z84 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/LEDs.vhd
+Z85 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/LEDs.vhd
 l0
 L5 1
 V82^IRfHNag^>;Yc>Z[nm>3
 !s100 LBhnQz<diU;5h1EbFfFEW1
 R7
 32
-R18
+Z86 !s110 1634107494
 !i10b 1
-R19
-Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/LEDs.vhd|
-Z84 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/LEDs.vhd|
+Z87 !s108 1634107493.000000
+Z88 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/LEDs.vhd|
+Z89 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/LEDs.vhd|
 !i113 1
 R12
 R13
@@ -497,41 +497,41 @@ R1
 R2
 R3
 DEx4 work 4 leds 0 22 82^IRfHNag^>;Yc>Z[nm>3
-!i122 315
+!i122 458
 l35
-L22 85
-V>3f<EDDzh?fl>Y0i[ad233
-!s100 >nX>UXM`h;^[mnM>habSd1
+L22 89
+V=<GnTGF5NbHIP]en`>TYg0
+!s100 N1nI^TeQ?b4_HFPQ=][CW1
 R7
 32
-R18
+R86
 !i10b 1
-R19
-R83
-R84
+R87
+R88
+R89
 !i113 1
 R12
 R13
 Elogic_unit
-Z85 w1632520497
+Z90 w1632520497
 R1
 R2
 R3
-!i122 316
+!i122 439
 R4
-Z86 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/logic_unit.vhd
-Z87 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/logic_unit.vhd
+Z91 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/logic_unit.vhd
+Z92 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/logic_unit.vhd
 l0
 L5 1
 VE^KBjmii;<4J6W7Q3OZgQ0
 !s100 C7>D?kP3HVibnz?O:9zYW0
 R7
 32
-Z88 !s110 1633870799
+R39
 !i10b 1
-R19
-Z89 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/logic_unit.vhd|
-Z90 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/logic_unit.vhd|
+Z93 !s108 1634010301.000000
+Z94 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/logic_unit.vhd|
+Z95 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/logic_unit.vhd|
 !i113 1
 R12
 R13
@@ -540,40 +540,40 @@ R1
 R2
 R3
 DEx4 work 10 logic_unit 0 22 E^KBjmii;<4J6W7Q3OZgQ0
-!i122 316
+!i122 439
 l15
 L14 15
 VSI]aDm=Jg7f<=Uze0bPUg2
 !s100 TN6nnUJ@:6n9[X<i?ome40
 R7
 32
-R88
+R39
 !i10b 1
-R19
-R89
-R90
+R93
+R94
+R95
 !i113 1
 R12
 R13
 Emultiplexer
-Z91 w1632522268
+Z96 w1632522268
 R2
 R3
-!i122 317
+!i122 440
 R4
-Z92 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/multiplexer.vhd
-Z93 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/multiplexer.vhd
+Z97 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/multiplexer.vhd
+Z98 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/multiplexer.vhd
 l0
 L4 1
 V4iH6`nZgBAHVia??bJk>G2
 !s100 UDM^5ga=kb9Z[=K^]bghV0
 R7
 32
-R88
+R39
 !i10b 1
-Z94 !s108 1633870799.000000
-Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/multiplexer.vhd|
-Z96 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/multiplexer.vhd|
+R93
+Z99 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/multiplexer.vhd|
+Z100 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/multiplexer.vhd|
 !i113 1
 R12
 R13
@@ -581,40 +581,40 @@ Asynth
 R2
 R3
 DEx4 work 11 multiplexer 0 22 4iH6`nZgBAHVia??bJk>G2
-!i122 317
+!i122 440
 l17
-R60
+R63
 VIhe34JMLQHJmNcaIg2cf81
 !s100 cB:jfif>W2bZ3U1L2LSiV1
 R7
 32
-R88
+R39
 !i10b 1
-R94
-R95
-R96
+R93
+R99
+R100
 !i113 1
 R12
 R13
 Emux2x16
-Z97 w1633720652
+Z101 w1633720652
 R2
 R3
-!i122 302
+!i122 425
 R4
-Z98 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x16.vhd
-Z99 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x16.vhd
+Z102 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x16.vhd
+Z103 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x16.vhd
 l0
 L4 1
 VaHOL`3MF?g?d`[6<SJm^e1
 !s100 ]AkMHg3_OS9:k6cjVd[b:3
 R7
 32
-R51
+Z104 !s110 1634010299
 !i10b 1
-R52
-Z100 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x16.vhd|
-Z101 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x16.vhd|
+Z105 !s108 1634010299.000000
+Z106 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x16.vhd|
+Z107 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x16.vhd|
 !i113 1
 R12
 R13
@@ -622,40 +622,40 @@ Asynth
 R2
 R3
 DEx4 work 7 mux2x16 0 22 aHOL`3MF?g?d`[6<SJm^e1
-!i122 302
+!i122 425
 l14
-Z102 L13 4
+Z108 L13 4
 VaJjPh]Io44MEFNdcmSSG83
 !s100 ?:68AP]na^M@5KR7z<KMD2
 R7
 32
-R51
+R104
 !i10b 1
-R52
-R100
-R101
+R105
+R106
+R107
 !i113 1
 R12
 R13
 Emux2x32
-R61
+Z109 w1633726151
 R2
 R3
-!i122 303
+!i122 426
 R4
-Z103 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x32.vhd
-Z104 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x32.vhd
+Z110 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x32.vhd
+Z111 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x32.vhd
 l0
 L4 1
 V5<9;E?13m3J1aF01KEAAR1
 !s100 Iab^5l@hZCaSi22IEjFiN0
 R7
 32
-Z105 !s110 1633870797
+R104
 !i10b 1
-R52
-Z106 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x32.vhd|
-Z107 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x32.vhd|
+R105
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x32.vhd|
+Z113 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x32.vhd|
 !i113 1
 R12
 R13
@@ -663,40 +663,40 @@ Asynth
 R2
 R3
 DEx4 work 7 mux2x32 0 22 5<9;E?13m3J1aF01KEAAR1
-!i122 303
+!i122 426
 l14
-R102
+R108
 Vb<868k8?5Lc5=U>=zTfJe3
 !s100 Ab1HOSVX<oTa]ad3;fgD11
 R7
 32
-R105
+R104
 !i10b 1
-R52
-R106
-R107
+R105
+R112
+R113
 !i113 1
 R12
 R13
 Emux2x5
-Z108 w1633720627
+Z114 w1633720627
 R2
 R3
-!i122 301
+!i122 424
 R4
-Z109 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x5.vhd
-Z110 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x5.vhd
+Z115 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x5.vhd
+Z116 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x5.vhd
 l0
 L4 1
 VW@GMgb]B=<MlVOlGRRM2i3
 !s100 A96?gLbg3Wafg>1JToSDm3
 R7
 32
-R51
+R104
 !i10b 1
-R52
-Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x5.vhd|
-Z112 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x5.vhd|
+R53
+Z117 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x5.vhd|
+Z118 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/mux2x5.vhd|
 !i113 1
 R12
 R13
@@ -704,41 +704,41 @@ Asynth
 R2
 R3
 DEx4 work 6 mux2x5 0 22 W@GMgb]B=<MlVOlGRRM2i3
-!i122 301
+!i122 424
 l14
-R102
+R108
 V9HM?6W9YE5jUf?>MTcV@b1
 !s100 31<_dGjljB7_RI1Oo@L]n0
 R7
 32
-R51
+R104
 !i10b 1
-R52
-R111
-R112
+R53
+R117
+R118
 !i113 1
 R12
 R13
 Epc
-Z113 w1633861299
+Z119 w1633861299
 R1
 R2
 R3
-!i122 406
+!i122 477
 R4
-Z114 8../vhdl/PC.vhd
-Z115 F../vhdl/PC.vhd
+Z120 8../vhdl/PC.vhd
+Z121 F../vhdl/PC.vhd
 l0
 L5 1
 V3U5];ZLXh17YKzdh9<RTF1
 !s100 a4k?Dj46mCD>aGcPNYK>?2
 R7
 31
-R32
+R31
 !i10b 1
-R33
-Z116 !s90 -reportprogress|300|-93|../vhdl/PC.vhd|
-Z117 !s107 ../vhdl/PC.vhd|
+Z122 !s108 1634113223.000000
+Z123 !s90 -reportprogress|300|-93|../vhdl/PC.vhd|
+Z124 !s107 ../vhdl/PC.vhd|
 !i113 1
 o-93
 R13
@@ -747,41 +747,41 @@ R1
 R2
 R3
 DEx4 work 2 pc 0 22 3U5];ZLXh17YKzdh9<RTF1
-!i122 406
+!i122 477
 l26
 L22 26
 V9GB]Qm`>Bbk5k:WOShdl40
 !s100 Mh^H_M=N[<=LD[K3@TSX`1
 R7
 31
-R32
+R31
 !i10b 1
-R33
-R116
-R117
+R122
+R123
+R124
 !i113 1
 o-93
 R13
 Eram
-Z118 w1632940746
+Z125 w1634103083
 R1
 R2
 R3
-!i122 318
+!i122 449
 R4
-Z119 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/RAM.vhd
-Z120 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/RAM.vhd
+Z126 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/RAM.vhd
+Z127 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/RAM.vhd
 l0
 L5 1
 VJiWAmLGUWmdVPB8L2QZ[D3
 !s100 9O>00CFElD4PLMkihiTWm3
 R7
 32
-R88
+Z128 !s110 1634103090
 !i10b 1
-R94
-Z121 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/RAM.vhd|
-Z122 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/RAM.vhd|
+Z129 !s108 1634103090.000000
+Z130 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/RAM.vhd|
+Z131 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/RAM.vhd|
 !i113 1
 R12
 R13
@@ -790,41 +790,41 @@ R1
 R2
 R3
 DEx4 work 3 ram 0 22 JiWAmLGUWmdVPB8L2QZ[D3
-!i122 318
+!i122 449
 l21
 L16 25
 V:6052_?n8f`L1KzaTWD?R1
 !s100 4eAE_;L76SSMO889NPJPV2
 R7
 32
-R88
+R128
 !i10b 1
-R94
-R121
-R122
+R129
+R130
+R131
 !i113 1
 R12
 R13
 Eregister_file
-R61
+R109
 R1
 R2
 R3
-!i122 319
+!i122 442
 R4
-Z123 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/register_file.vhd
-Z124 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/register_file.vhd
+Z132 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/register_file.vhd
+Z133 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/register_file.vhd
 l0
 L5 1
 VhQYRZ<6ijZW2:hk46k4IZ2
 !s100 _;mToXbZzY:WVO^oMIJ;J3
 R7
 32
-R88
+Z134 !s110 1634010302
 !i10b 1
-R94
-Z125 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/register_file.vhd|
-Z126 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/register_file.vhd|
+R93
+Z135 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/register_file.vhd|
+Z136 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/register_file.vhd|
 !i113 1
 R12
 R13
@@ -833,40 +833,40 @@ R1
 R2
 R3
 DEx4 work 13 register_file 0 22 hQYRZ<6ijZW2:hk46k4IZ2
-!i122 319
+!i122 442
 l22
 L18 20
 VfiJWmY8TkdGhIDz2[0m>A0
 !s100 H1?AkfK74G31B5_z^6VN?3
 R7
 32
-R88
+R134
 !i10b 1
-R94
-R125
-R126
+R93
+R135
+R136
 !i113 1
 R12
 R13
 Erom
-Z127 w1633874803
+Z137 w1634110911
 R2
 R3
-!i122 412
+!i122 470
 R4
-Z128 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM.vhd
-Z129 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM.vhd
+Z138 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM.vhd
+Z139 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM.vhd
 l0
 L4 1
 VLD>LKJh0<<KfR_G::f?6B1
 !s100 LzhnA0@bLeKPHkcXf<L3g3
 R7
 32
-Z130 !s110 1633874810
+Z140 !s110 1634110915
 !i10b 1
-Z131 !s108 1633874810.000000
-Z132 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM.vhd|
-Z133 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM.vhd|
+Z141 !s108 1634110915.000000
+Z142 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM.vhd|
+Z143 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM.vhd|
 !i113 1
 R12
 R13
@@ -874,40 +874,40 @@ Asynth
 R2
 R3
 DEx4 work 3 rom 0 22 LD>LKJh0<<KfR_G::f?6B1
-!i122 412
-l23
-L14 19
-VJO:N41XE>U@LJo>kiYP]Z3
-!s100 Z;@VO?EhPi1a>`k:oGS9`1
+!i122 470
+l26
+L14 31
+VQ68>WF^kCa<9C^2NlFE7i3
+!s100 Cl^l0z9nK;[aIXYcZ4MGf0
 R7
 32
-R130
+R140
 !i10b 1
-R131
-R132
-R133
+R141
+R142
+R143
 !i113 1
 R12
 R13
 Erom_block
-Z134 w1633864260
+Z144 w1633864260
 R2
 R3
-!i122 321
+!i122 444
 R4
-Z135 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM_Block.vhd
-Z136 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM_Block.vhd
+Z145 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM_Block.vhd
+Z146 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM_Block.vhd
 l0
 L42 1
 VCf[gZ]hQBZigaT1P:e9O01
 !s100 Fb1^C3b1G3KcM]0dFoPHV2
 R7
 32
-R88
+R134
 !i10b 1
-R94
-Z137 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM_Block.vhd|
-Z138 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM_Block.vhd|
+Z147 !s108 1634010302.000000
+Z148 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM_Block.vhd|
+Z149 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/ROM_Block.vhd|
 !i113 1
 R12
 R13
@@ -915,41 +915,41 @@ Asyn
 R2
 R3
 DEx4 work 9 rom_block 0 22 Cf[gZ]hQBZigaT1P:e9O01
-!i122 321
+!i122 444
 l82
 L52 59
 VZKBR7P0EaE;PJMf_Ho4411
 !s100 2O9W8o5<`cI7Pb0TBCEoL0
 R7
 32
-R88
+R134
 !i10b 1
-R94
-R137
-R138
+R147
+R148
+R149
 !i113 1
 R12
 R13
 Eshift_unit
-Z139 w1633717734
+Z150 w1633717734
 R1
 R2
 R3
-!i122 322
+!i122 445
 R4
-Z140 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/shift_unit.vhd
-Z141 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/shift_unit.vhd
+Z151 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/shift_unit.vhd
+Z152 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/shift_unit.vhd
 l0
 L5 1
 VoYz=ZP:Rg2U9Eb=ZGo>940
 !s100 C4@E7NN0:UB89P^MW405S0
 R7
 32
-R88
+R134
 !i10b 1
-R94
-Z142 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/shift_unit.vhd|
-Z143 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/shift_unit.vhd|
+R147
+Z153 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/shift_unit.vhd|
+Z154 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/vhdl/shift_unit.vhd|
 !i113 1
 R12
 R13
@@ -958,242 +958,242 @@ R1
 R2
 R3
 DEx4 work 10 shift_unit 0 22 oYz=ZP:Rg2U9Eb=ZGo>940
-!i122 322
+!i122 445
 l17
 L14 66
 VNOiOnk]_oCJDa8RHk=_0n1
 !s100 dC3RH_ngSNidhYJX18aNc2
 R7
 32
-R88
+R134
 !i10b 1
-R94
-R142
-R143
+R147
+R153
+R154
 !i113 1
 R12
 R13
 Etb_controller
-R22
-R36
-R29
+R21
+R35
+R28
 R1
 R2
 R3
-!i122 405
+!i122 476
 R4
-Z144 8../testbench/tb_Controller.vhd
-Z145 F../testbench/tb_Controller.vhd
+Z155 8../testbench/tb_Controller.vhd
+Z156 F../testbench/tb_Controller.vhd
 l0
 L9 1
 V3E@KN_PfWzKDMi@e_IcgN1
 !s100 QPYMI?@zF<fA]gVd9c[kS0
 R7
 31
-Z146 !s110 1633872791
+Z157 !s110 1634113193
 !i10b 1
-Z147 !s108 1633872791.000000
-Z148 !s90 -reportprogress|300|-93|../testbench/tb_Controller.vhd|
-Z149 !s107 ../testbench/tb_Controller.vhd|
+Z158 !s108 1634113193.000000
+Z159 !s90 -reportprogress|300|-93|../testbench/tb_Controller.vhd|
+Z160 !s107 ../testbench/tb_Controller.vhd|
 !i113 1
 o-93
 R13
 Atestbench
-R36
-R29
+R35
+R28
 R1
 R2
 R3
 DEx4 work 13 tb_controller 0 22 3E@KN_PfWzKDMi@e_IcgN1
-!i122 405
+!i122 476
 l102
 L15 417
 V3M1BHZOYlAHk5ZM;AdXib3
 !s100 _WkzDDFBPd:3LHMWS[AoW2
 R7
 31
-R146
+R157
 !i10b 1
-R147
-R148
-R149
+R158
+R159
+R160
 !i113 1
 o-93
 R13
 Etb_extend
-R22
-Z150 DPx4 work 15 check_functions 0 22 <W1[dk2LN3hi[c?7kCXRb3
-R29
+R21
+Z161 DPx4 work 15 check_functions 0 22 <W1[dk2LN3hi[c?7kCXRb3
+R28
 R2
 R3
-!i122 307
+!i122 430
 R4
-Z151 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_Extend.vhd
-Z152 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_Extend.vhd
+Z162 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_Extend.vhd
+Z163 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_Extend.vhd
 l0
 L8 1
 Vaaa357Ec4Z]hSVLzLa]`V0
 !s100 bW1ZJ800R3O0<C<7nO4h:1
 R7
 32
-R105
+R104
 !i10b 1
-Z153 !s108 1633870797.000000
-Z154 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_Extend.vhd|
-Z155 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_Extend.vhd|
+R105
+Z164 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_Extend.vhd|
+Z165 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_Extend.vhd|
 !i113 1
 R12
 R13
 Atestbench
-R150
-R29
+R161
+R28
 R2
 R3
 DEx4 work 9 tb_extend 0 22 aaa357Ec4Z]hSVLzLa]`V0
-!i122 307
+!i122 430
 l31
 L11 98
 VSUC:NKCMTg8:IYKgIcGd30
 !s100 f><EEJh?:BbXgSC^g?0XG2
 R7
 32
-R105
+R8
 !i10b 1
-R153
-R154
-R155
+R105
+R164
+R165
 !i113 1
 R12
 R13
 Etb_gecko
-R22
+R21
 R2
 R3
-!i122 308
+!i122 431
 R4
-Z156 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_GECKO.vhd
-Z157 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_GECKO.vhd
+Z166 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_GECKO.vhd
+Z167 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_GECKO.vhd
 l0
 L4 1
 V5Tbz7Kl=147iIIz>>A8Y[3
 !s100 M92[;29_Yc:FoKCCIgj]?0
 R7
 32
-R105
+R8
 !i10b 1
-R153
-Z158 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_GECKO.vhd|
-Z159 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_GECKO.vhd|
+R9
+Z168 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_GECKO.vhd|
+Z169 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_GECKO.vhd|
 !i113 1
 R12
 R13
 Atestbench
-R70
+R75
 R2
 R3
 DEx4 work 8 tb_gecko 0 22 5Tbz7Kl=147iIIz>>A8Y[3
-!i122 308
+!i122 431
 l14
 L7 39
 V6fQEk`>ELI8^:O]bcf[0k0
 !s100 1395I=^FjK==Lo:2:Ck6c3
 R7
 32
-R105
+R8
 !i10b 1
-R153
-R158
-R159
+R9
+R168
+R169
 !i113 1
 R12
 R13
 Etb_ir
-R22
-R150
-R29
+R21
+R161
+R28
 R2
 R3
-!i122 309
+!i122 432
 R4
-Z160 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_IR.vhd
-Z161 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_IR.vhd
+Z170 8C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_IR.vhd
+Z171 FC:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_IR.vhd
 l0
 L8 1
 VNa]DdS==`51QO9@9@NCYO3
 !s100 dO7:P:CO76Dg9T_Q>3Mi:2
 R7
 32
-R18
+R8
 !i10b 1
-R153
-Z162 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_IR.vhd|
-Z163 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_IR.vhd|
+R9
+Z172 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_IR.vhd|
+Z173 !s107 C:/Users/j.freeman/Documents/EPFL/BA3/Comparch/Labs/Lab3/Template-20211008/testbench/tb_IR.vhd|
 !i113 1
 R12
 R13
 Atestbench
-R150
-R29
+R161
+R28
 R2
 R3
 DEx4 work 5 tb_ir 0 22 Na]DdS==`51QO9@9@NCYO3
-!i122 309
+!i122 432
 l32
 L11 101
 VFC]h]m]T]Ph2`Z>Ki^a?Z2
 !s100 g?YUbkdlEmZ2JbBY[dbba0
 R7
 32
-R18
+R8
 !i10b 1
-R153
-R162
-R163
+R9
+R172
+R173
 !i113 1
 R12
 R13
 Etb_pc
-R22
-R36
-R29
+R21
+R35
+R28
 R2
 R3
-!i122 408
+!i122 479
 R4
-Z164 8../testbench/tb_PC.vhd
-Z165 F../testbench/tb_PC.vhd
+Z174 8../testbench/tb_PC.vhd
+Z175 F../testbench/tb_PC.vhd
 l0
 L8 1
 V2P^Ye]=DcVobhf_EG_H431
 !s100 _Sjg^6a@flK7I1KVlG]Sm2
 R7
 31
-R32
+R31
 !i10b 1
-R33
-Z166 !s90 -reportprogress|300|-93|../testbench/tb_PC.vhd|
-Z167 !s107 ../testbench/tb_PC.vhd|
+R32
+Z176 !s90 -reportprogress|300|-93|../testbench/tb_PC.vhd|
+Z177 !s107 ../testbench/tb_PC.vhd|
 !i113 1
 o-93
 R13
 Atestbench
-R36
-R29
+R35
+R28
 R2
 R3
 DEx4 work 5 tb_pc 0 22 2P^Ye]=DcVobhf_EG_H431
-!i122 408
+!i122 479
 l42
 L11 127
 Vf5G`eZIn6KizE:]=3UeFm0
 !s100 gKH@n?YGO`P>Bz<MRbX@K0
 R7
 31
-R32
+R31
 !i10b 1
-R33
-R166
-R167
+R32
+R176
+R177
 !i113 1
 o-93
 R13

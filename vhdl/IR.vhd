@@ -14,11 +14,12 @@ entity IR is
 end IR;
 
 architecture synth of IR is
-    
 begin
-    instructionRegister : process (clk) is
+    
+    
+    instructionRegister : process (clk, enable) is
     begin
-        if falling_edge(clk) and enable ='1' then
+        if rising_edge(clk) and enable ='1' then
           Q<=D;
         end if;
     end process instructionRegister;

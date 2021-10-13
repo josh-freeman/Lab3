@@ -18,7 +18,7 @@ architecture synth of decoder is
     signal CSROM : std_logic;  
     signal CSBUTTONS : std_logic;  
 begin
-    CSROM <= '1' when 0 <= unsigned(address) and unsigned(address) <= X"0FFC" else '0';
+    CSROM <= '1' when X"0000" <= unsigned(address) and unsigned(address) <= X"0FFC" else '0';
     CSRAM <= '1' when X"1000" <= unsigned(address) and unsigned(address) <= X"1FFC" else '0';
     CSLEDS <= '1' when X"2000" <= unsigned(address) and unsigned(address) <= X"200C" else '0';
     CSBUTTONS <= '1' when X"2030" <= unsigned(address) and unsigned(address) <= X"2034" else '0';        
